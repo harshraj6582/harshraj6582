@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Harsh Raj</h1>
-<h3 align="center">A passionate Front-End Developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Redux Toolkit Query**
 
-- 👯 I’m looking to collaborate on [FrontEnd Developer Roles](https://github.com/harshraj6582/StudyNotion-.git)
+- 👯 I’m looking to collaborate on [Full Stack Developer Roles](https://github.com/harshraj6582/StudyNotion-.git)
 
 - 💬 Ask me about **React , Redux , Node , Express**
 
